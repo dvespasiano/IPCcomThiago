@@ -1,0 +1,23 @@
+<div class="container">
+  <h5 style="color:black">Login</h5>
+</div>
+<div class="container2">
+  <div class="row">
+    <div class="input-field col s6">
+      <label class="active" for="usuario">Usuario</label>
+      <input [(ngModel)]="usuario.nome" id="usuario" type="text" class="active">
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s6">
+      <label class="active" for="senha">Senha</label>
+      <input type="password" [(ngModel)]="usuario.senha" id="senha" class="validate">
+
+    </div>
+  </div>
+</div>
+<div class="container3">
+  <button class="btn waves-effect waves light" type="submit" name="action" (keypress.enter)="fazerLogin()" (click)="fazerLogin()">Login</button>
+</div>
