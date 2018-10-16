@@ -1,4 +1,13 @@
 .navbar{
     height:80px;
 }
+.nav-item:hover{
+    background-color:#35a8e0;
+}
+/*Imagens*/
 
+.imgLogo{
+    width: 30%;
+    height: 30%;
+    margin-left: 10%;
+}
