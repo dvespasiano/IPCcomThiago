@@ -1,8 +1,23 @@
+/*Tamanhos*/
+
 .navbar{
     height:80px;
 }
+.nav-item{
+  width: 65%;
+}
+
 .nav-item:hover{
     background-color:#35a8e0;
+}
+.navbar-brand{
+  margin-right:-110px;
+}
+
+.campo{
+  border: 0;
+  background-color: #35a8e0;
+  height: 10px;
 }
 /*Imagens*/
 
@@ -10,4 +25,5 @@
     width: 30%;
     height: 30%;
     margin-left: 10%;
+    margin-right: 0;
 }
