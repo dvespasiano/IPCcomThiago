@@ -2,6 +2,7 @@
 
 .navbar{
     height:80px;
+    box-shadow: none;
 }
 .nav-item{
   width: 65%;
@@ -17,7 +18,7 @@
 .campo{
   border: 0;
   background-color: #35a8e0;
-  height: 10px;
+  height: 7px;
 }
 /*Imagens*/
 
