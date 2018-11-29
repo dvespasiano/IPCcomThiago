@@ -9,6 +9,7 @@ import { TelaHomeComponent } from './tela-home/tela-home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { RoutingModule } from './app.router';
+import { SidebarComponent } from './sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { RoutingModule } from './app.router';
     TelaLoginComponent,
     TelaHomeComponent,
     NavbarComponent,
-    DashboardComponent
+    DashboardComponent,
+    SidebarComponent
   ],
   imports: [
     BrowserModule,
