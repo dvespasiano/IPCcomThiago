@@ -30,8 +30,12 @@
 
 .nav-item :hover, .nav-link :hover{
     background-color: #35a8e0;
-    color: #343a40;
+    color: white;
     font-size: 110%;
     size: 110%;
+}
+
+a{
+    color:#afafaf;
 }
 
