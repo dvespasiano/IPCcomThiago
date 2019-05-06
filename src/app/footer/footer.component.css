@@ -1,10 +1,9 @@
 .barraAzul{
     height: 7px;
-    background-color: #35a8e0;
-    margin-top: 30px;
+    background-color: #35a8e0; 
 }
 
 .divFooter{
-    height: 200px;
+    height: 100px;
     background-color: #343a40;
 }

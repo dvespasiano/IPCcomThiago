@@ -24,15 +24,15 @@
             ],
             "styles": [
               "src/styles.css",
-              "../ipc/node_modules/materialize-css/dist/css/materialize.css",
-              "../ipc/node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "./node_modules/materialize-css/dist/css/materialize.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "../ipc/node_modules/jquery/dist/jquery.min.js",
-              "../ipc/node_modules/materialize-css/dist/js/materialize.min.js",
-              "../ipc/node_modules/jquery/dist/jquery.min.js",
-              "../ipc/node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "../ipc/node_modules/popper.js/dist/umd/popper.min.js"
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/materialize-css/dist/js/materialize.min.js",
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "./node_modules/popper.js/dist/umd/popper.min.js"
             ]
           },
           "configurations": {
