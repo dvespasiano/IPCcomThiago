@@ -23,7 +23,11 @@
               "src/favicon.ico"
             ],
             "styles": [
+<<<<<<< HEAD
               "src/styles.css",
+=======
+              "./src/styles.css",
+>>>>>>> 760b29b2f20d217a3c252b9426c4f991b91ab81e
               "./node_modules/materialize-css/dist/css/materialize.css",
               "./node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
