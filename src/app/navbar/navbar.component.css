@@ -4,15 +4,25 @@
     height:80px;
     box-shadow: none;
 }
-.nav-item{
-  width: 65%;
+
+.logo{
+    height: 50px;
+}
+
+.dropdown-menu{
+    border-radius: 0% !important;
+    padding: 0 0 !important;
+    margin: -0em;
+    border: 0;
+}
+
+.nav-item a{
+    padding-left: 1em;
+    padding-right: 1em;  
 }
 
 .nav-item:hover{
     background-color:#35a8e0;
-}
-.navbar-brand{
-  margin-right:-110px;
 }
 
 .barraAzulNav{
@@ -25,6 +35,6 @@
 .imgLogo{
     width: 30%;
     height: 30%;
-    margin-left: 10%;
+    margin-left: 0;
     margin-right: 0;
 }

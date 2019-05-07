@@ -2,8 +2,9 @@
     width: 200px;
     background-color: #343a40;
     margin-top: 0px;
-    margin-left: 0px; 
+    border-bottom:  7px solid #35a8e0; 
     border-right: 7px solid #35a8e0;
+    border-left: 7px solid #35a8e0;
 }
 
 .nav flex-column{
