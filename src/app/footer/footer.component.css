@@ -4,6 +4,37 @@
 }
 
 .divFooter{
-    height: 100px;
     background-color: #343a40;
+    min-height: 100px;
+    float:left; 
+    width: 100%;
+    color: white;
+    padding: 1vw;
+}
+
+a{
+    color: white;
+}
+.links{
+    width: 15%;
+    min-width: 250px;
+    position: relative;
+    float: right;
+    margin-right: 5%;
+}
+
+.flutuando{
+    position: relative;
+    float: left; 
+    border:0;
+}
+
+.logo{
+    width: 100%;
+}
+
+hr{
+    width: 100%;
+    background-color: white;
+
 }

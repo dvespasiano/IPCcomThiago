@@ -1,12 +1,7 @@
 /*Tamanhos*/
 
-.navbar{
-    height:80px;
-    box-shadow: none;
-}
-
 .logo{
-    height: 50px;
+    height: 8vh;
 }
 
 .dropdown-menu{
@@ -17,24 +12,17 @@
 }
 
 .nav-item a{
-    padding-left: 1em;
-    padding-right: 1em;  
+    padding:0 1em;
+    border: 0;
 }
 
-.nav-item:hover{
-    background-color:#35a8e0;
+.nav-item a:hover{
+    background-color: #35a8e0 !important;
+    border:0
 }
-
+    
 .barraAzulNav{
   border: 0;
   background-color: #35a8e0;
   height: 7px;
-}
-/*Imagens*/
-
-.imgLogo{
-    width: 30%;
-    height: 30%;
-    margin-left: 0;
-    margin-right: 0;
 }

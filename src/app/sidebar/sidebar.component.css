@@ -7,9 +7,7 @@
     border-left: 7px solid #35a8e0;
 }
 
-.nav flex-column{
-    position: relative;
-}
+
 
 .nav-link active{
     text-align: center;
@@ -19,7 +17,6 @@
 }
 
 .nav-item{
-    position: relative;
     text-align: center;
     line-height: 60px;
 }

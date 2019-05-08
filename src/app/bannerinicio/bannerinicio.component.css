@@ -1,0 +1,25 @@
+.banner-inicio{
+    background-image: url("../../assets/fundoinicio.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    min-height: 80vh;
+}
+
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    text-shadow:-4px -4px 4px black,
+                -4px  4px 4px black,
+                 4px -4px 4px black,
+                 4px  4px 4px black;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+h1{
+    font-size: 12em;
+}
+
+h3{
+    font-size: 2.5em;
+}
